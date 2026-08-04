@@ -20,6 +20,21 @@ CompendioNormasAmbientalesChile_20260804_2033_UTC.pdf
 
 El PDF se publica como artifact de GitHub Actions con retención de 30 días.
 
+## Descarga del compendio
+
+El último compendio generado y el histórico reciente se encuentran en la página del workflow:
+
+[Ver ejecuciones y artifacts del compendio](https://github.com/n-a-monterocarvajal/CompendioNormasAmbientalesChile/actions/workflows/generar-compendio.yml)
+
+Para descargar el PDF más reciente:
+
+1. abrir el enlace anterior;
+2. entrar en la ejecución exitosa más reciente;
+3. bajar hasta la sección **Artifacts**;
+4. descargar el artifact `CompendioNormasAmbientalesChile`.
+
+El histórico disponible corresponde a las ejecuciones de GitHub Actions. Los artifacts se eliminan automáticamente después de 30 días.
+
 ## Ejecución
 
 El workflow se ejecuta automáticamente una vez por semana y también puede ejecutarse manualmente desde la pestaña **Actions** de GitHub.
