@@ -1,6 +1,6 @@
-# 🌱 Compendio Normas Ambientales Chile
+# 🌱 Compendio de normas de Derecho Ambiental chileno
 
-Este repositorio genera mensualmente, mediante GitHub Actions, un compendio PDF de normas ambientales chilenas disponibles en el servicio Ley Chile de la Biblioteca del Congreso Nacional de Chile.
+Este repositorio genera mensualmente, mediante GitHub Actions, un compendio PDF actualizado de normas de derecho ambiental chileno disponibles en el servicio Ley Chile de la Biblioteca del Congreso Nacional de Chile.
 
 ## 📚 Normas incluidas
 
