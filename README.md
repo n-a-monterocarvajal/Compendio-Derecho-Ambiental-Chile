@@ -1,6 +1,6 @@
 # 🌱 Compendio Normas Ambientales Chile
 
-Este repositorio genera mensualmente, mediante GitHub Actions, un compendio PDF de normas ambientales chilenas disponibles en LeyChile. El archivo resultante queda disponible como *artifact* de la ejecución por 30 días.
+Este repositorio genera mensualmente, mediante GitHub Actions, un compendio PDF de normas ambientales chilenas disponibles en el servicio Ley Chile de la Biblioteca del Congreso Nacional de Chile.
 
 ## 📚 Normas incluidas
 
@@ -15,6 +15,8 @@ Este repositorio genera mensualmente, mediante GitHub Actions, un compendio PDF 
 9. [Decreto Supremo N.º 15, de 2020, del Ministerio del Medio Ambiente, que establece Reglamento de la Ley N.º 21.202, que modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos.](https://www.bcn.cl/leychile/navegar?idNorma=1152029)
 10. [Ley N.º 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje.](https://www.bcn.cl/leychile/navegar?idNorma=1090894)
 11. [Ley N.º 21.455, Ley Marco de Cambio Climático.](https://www.bcn.cl/leychile/navegar?idNorma=1177286)
+
+*La selección de las normas está basada en la portada de la publicación [Compendio de Normas Ambientales de Chile](https://editorial.tirant.com/cl/libro/compendio-de-normas-ambientales-de-chile-pavez-torrealba-felipe-ignacio-9791370402808)*
 
 ## 📄 PDF generado
 
