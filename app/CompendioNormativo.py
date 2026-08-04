@@ -6,6 +6,7 @@ import os
 import re
 import time
 import traceback
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -34,6 +35,12 @@ def log(message: str) -> None:
 
 def safe_name(value: str) -> str:
     return re.sub(r"[^a-zA-Z0-9_-]+", "_", value).strip("_") or "archivo"
+
+
+def output_name_from_base(base_name: str) -> str:
+    clean_base = safe_name(base_name)
+    timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M_UTC")
+    return f"{clean_base}_{timestamp}.pdf"
 
 
 def assert_pdf(path: Path) -> None:
@@ -291,6 +298,17 @@ def merge(parts: list[tuple[str, Path]], out_path: Path, title: str) -> None:
     assert_pdf(out_path)
 
 
+def resolve_output_path(args: argparse.Namespace, config: dict[str, Any]) -> Path:
+    if args.salida:
+        out_path = Path(args.salida)
+    else:
+        base_name = str(config.get("salida_base") or "CompendioNormasAmbientalesChile")
+        out_path = Path(output_name_from_base(base_name))
+    if not out_path.is_absolute():
+        out_path = BASE_DIR / out_path
+    return out_path
+
+
 def main() -> int:
     WORK_DIR.mkdir(parents=True, exist_ok=True)
     LOG_PATH.write_text("", encoding="utf-8")
@@ -301,9 +319,7 @@ def main() -> int:
     args = parser.parse_args()
 
     config = read_config(Path(args.config))
-    out_path = Path(args.salida or config.get("salida") or "Compendio_normas_ambientales_Chile.pdf")
-    if not out_path.is_absolute():
-        out_path = BASE_DIR / out_path
+    out_path = resolve_output_path(args, config)
 
     log(f"Configuración: {Path(args.config).resolve()}")
     log(f"Salida: {out_path.resolve()}")
