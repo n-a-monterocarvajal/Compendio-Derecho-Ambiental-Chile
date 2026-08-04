@@ -6,10 +6,16 @@ El proyecto tiene vocación pública: no contiene datos personales, credenciales
 
 ## PDF generado
 
-El workflow produce el archivo:
+El workflow produce un archivo PDF con nombre versionado por fecha y hora UTC:
 
 ```text
-Compendio_normas_ambientales_Chile.pdf
+CompendioNormasAmbientalesChile_YYYYMMDD_HHMM_UTC.pdf
+```
+
+Por ejemplo:
+
+```text
+CompendioNormasAmbientalesChile_20260804_2033_UTC.pdf
 ```
 
 El PDF se publica como artifact de GitHub Actions con retención de 30 días.
@@ -61,6 +67,8 @@ Las fuentes se editan en:
 ```text
 app/fuentes.json
 ```
+
+El campo `salida_base` define el prefijo del nombre del PDF. El script agrega automáticamente la fecha y hora de generación en UTC.
 
 Cada fuente usa una URL pública de LeyChile con su correspondiente `idNorma`.
 
