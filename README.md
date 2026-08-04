@@ -4,7 +4,7 @@ Este repositorio genera semanalmente, mediante GitHub Actions, un compendio PDF 
 
 ## Normas incluidas
 
-1. Ley N.º 19.300 — Bases Generales del Medio Ambiente.
+1. [Ley N.º 19.300, que aprueba Ley sobre Bases Generales del Medio Ambiente.](https://www.bcn.cl/leychile/navegar?idNorma=30667)
 2. Decreto Supremo N.º 40, de 2012 — Reglamento del Sistema de Evaluación de Impacto Ambiental.
 3. Ley N.º 21.770 — Ley Marco de Autorizaciones Sectoriales.
 4. Decreto Supremo N.º 32, de 2015 — Reglamento para la Evaluación Ambiental Estratégica.
