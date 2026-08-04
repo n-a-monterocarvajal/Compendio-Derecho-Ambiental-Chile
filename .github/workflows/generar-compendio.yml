@@ -6,7 +6,7 @@ on:
     - cron: "0 10 * * 1"
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   generar:
@@ -34,6 +34,17 @@ jobs:
       - name: Generar compendio
         run: |
           python app/CompendioNormativo.py --config app/fuentes.json
+
+      - name: Crear versión publicada
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          archivo=$(ls CompendioNormasAmbientalesChile_*.pdf)
+          fecha=$(date -u +%Y%m%d_%H%M_UTC)
+          gh release create "v${fecha}" "$archivo" \
+            --title "Compendio ${fecha}" \
+            --notes "Compendio generado automáticamente mediante GitHub Actions."
 
       - name: Mostrar log si existe
         if: always()
