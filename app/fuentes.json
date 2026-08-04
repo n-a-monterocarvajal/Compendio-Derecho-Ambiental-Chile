@@ -1,0 +1,84 @@
+{
+  "titulo_compendio": "Compendio de normas ambientales de Chile",
+  "salida": "Compendio_normas_ambientales_Chile.pdf",
+  "bcn_navegador_visible": false,
+  "fuentes": [
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 19.300 — Bases Generales del Medio Ambiente",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=30667",
+      "id_norma": 30667,
+      "archivo": "01_ley_19300_bases_generales_medio_ambiente"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Decreto Supremo N.º 40, de 2012 — Reglamento del Sistema de Evaluación de Impacto Ambiental",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1053563",
+      "id_norma": 1053563,
+      "archivo": "02_ds_40_2012_reglamento_seia"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 21.770 — Ley Marco de Autorizaciones Sectoriales",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1216930",
+      "id_norma": 1216930,
+      "archivo": "03_ley_21770_autorizaciones_sectoriales"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Decreto Supremo N.º 32, de 2015 — Reglamento para la Evaluación Ambiental Estratégica",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1083574",
+      "id_norma": 1083574,
+      "archivo": "04_ds_32_2015_evaluacion_ambiental_estrategica"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 20.417 — Ministerio, Servicio de Evaluación Ambiental y Superintendencia del Medio Ambiente",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1010459",
+      "id_norma": 1010459,
+      "archivo": "05_ley_20417_institucionalidad_ambiental"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 20.600 — Tribunales Ambientales",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1041361",
+      "id_norma": 1041361,
+      "archivo": "06_ley_20600_tribunales_ambientales"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 21.600 — Servicio de Biodiversidad y Áreas Protegidas",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1195666",
+      "id_norma": 1195666,
+      "archivo": "07_ley_21600_sbap"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 21.202 — Protección de Humedales Urbanos",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1141461",
+      "id_norma": 1141461,
+      "archivo": "08_ley_21202_humedales_urbanos"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Decreto Supremo N.º 15, de 2020 — Reglamento de Humedales Urbanos",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1152029",
+      "id_norma": 1152029,
+      "archivo": "09_ds_15_2020_reglamento_humedales_urbanos"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 20.920 — Gestión de Residuos y Responsabilidad Extendida del Productor",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1090894",
+      "id_norma": 1090894,
+      "archivo": "10_ley_20920_residuos_rep"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 21.455 — Ley Marco de Cambio Climático",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1177286",
+      "id_norma": 1177286,
+      "archivo": "11_ley_21455_cambio_climatico"
+    }
+  ]
+}
