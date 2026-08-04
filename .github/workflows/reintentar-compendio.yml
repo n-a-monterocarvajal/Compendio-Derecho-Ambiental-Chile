@@ -1,0 +1,27 @@
+name: Reintentar compendio ambiental
+
+on:
+  workflow_run:
+    workflows:
+      - Generar compendio ambiental
+    types:
+      - completed
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  reintento:
+    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Esperar una hora antes del reintento
+        run: sleep 3600
+
+      - name: Ejecutar nuevo intento
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh workflow run generar-compendio.yml --repo ${{ github.repository }}
