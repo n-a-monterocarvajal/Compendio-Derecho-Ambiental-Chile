@@ -1,6 +1,6 @@
 # 🌱 Compendio Normas Ambientales Chile
 
-Este repositorio genera semanalmente, mediante GitHub Actions, un compendio PDF de normas ambientales chilenas disponibles en LeyChile. El archivo resultante queda disponible como *artifact* de la ejecución por 30 días.
+Este repositorio genera mensualmente, mediante GitHub Actions, un compendio PDF de normas ambientales chilenas disponibles en LeyChile. El archivo resultante queda disponible como *artifact* de la ejecución por 30 días.
 
 ## 📚 Normas incluidas
 
