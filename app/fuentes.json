@@ -1,6 +1,6 @@
 {
   "titulo_compendio": "Compendio de normas ambientales de Chile",
-  "salida": "Compendio_normas_ambientales_Chile.pdf",
+  "salida_base": "CompendioNormasAmbientalesChile",
   "bcn_navegador_visible": false,
   "fuentes": [
     {
@@ -50,7 +50,7 @@
       "marcador": "Ley N.º 21.600 — Servicio de Biodiversidad y Áreas Protegidas",
       "url": "https://www.bcn.cl/leychile/navegar?idNorma=1195666",
       "id_norma": 1195666,
-      "archivo": "07_ley_21600_sbap"
+      "archivo": "07_ley_21600_biodiversidad_areas_protegidas"
     },
     {
       "tipo": "bcn",
@@ -71,7 +71,7 @@
       "marcador": "Ley N.º 20.920 — Gestión de Residuos y Responsabilidad Extendida del Productor",
       "url": "https://www.bcn.cl/leychile/navegar?idNorma=1090894",
       "id_norma": 1090894,
-      "archivo": "10_ley_20920_residuos_rep"
+      "archivo": "10_ley_20920_residuos_rep_reciclaje"
     },
     {
       "tipo": "bcn",
