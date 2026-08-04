@@ -26,18 +26,13 @@ CompendioNormasAmbientalesChile_YYYYMMDD_HHMM_UTC.pdf
 
 ## 📥 Descarga del compendio
 
-El último compendio generado y el histórico reciente se encuentran en la página del *workflow*:
+La versión más reciente del compendio se publica como *release* del repositorio:
 
-[Ver ejecuciones y *artifacts* del compendio](https://github.com/n-a-monterocarvajal/CompendioNormasAmbientalesChile/actions/workflows/generar-compendio.yml)
+[Descargar última versión publicada del compendio](https://github.com/n-a-monterocarvajal/CompendioNormasAmbientalesChile/releases/latest)
 
-Para descargar el PDF más reciente:
+El historial de versiones anteriores se encuentra disponible en la sección de *releases* del repositorio.
 
-1. abrir el enlace anterior;
-2. entrar en la ejecución exitosa más reciente;
-3. bajar hasta la sección ***Artifacts***;
-4. descargar el *artifact* `CompendioNormasAmbientalesChile`.
-
-El histórico disponible corresponde a las ejecuciones de GitHub Actions. Los *artifacts* se eliminan automáticamente después de 30 días.
+Los *artifacts* de las ejecuciones de GitHub Actions se mantienen adicionalmente como respaldo temporal durante 30 días.
 
 ## 🔐 Licencia
 
