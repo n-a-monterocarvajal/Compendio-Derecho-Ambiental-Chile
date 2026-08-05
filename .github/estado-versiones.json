@@ -1,0 +1,527 @@
+{
+  "schema_version": 1,
+  "actualizado_utc": "2026-08-05T01:41:31+00:00",
+  "fuentes": {
+    "30667": {
+      "id_norma": "30667",
+      "marcador": "Ley N.º 19.300, que aprueba Ley sobre Bases Generales del Medio Ambiente.",
+      "titulo_bcn": "APRUEBA LEY SOBRE BASES GENERALES DEL MEDIO AMBIENTE",
+      "vigencia_actual": {
+        "desde": "2024-04-10",
+        "hasta": "2027-11-12",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "1994-03-09",
+          "hasta": "1995-02-07",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "1995-02-08",
+          "hasta": "2007-03-26",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-03-27",
+          "hasta": "2007-10-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-10-02",
+          "hasta": "2007-12-20",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-12-21",
+          "hasta": "2008-07-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2008-07-30",
+          "hasta": "2010-01-25",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-01-26",
+          "hasta": "2010-11-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-11-13",
+          "hasta": "2016-05-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-06-01",
+          "hasta": "2019-07-14",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2019-07-15",
+          "hasta": "2020-01-22",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-01-23",
+          "hasta": "2021-08-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2021-08-13",
+          "hasta": "2022-06-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-06-02",
+          "hasta": "2022-06-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-06-13",
+          "hasta": "2023-05-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-05-29",
+          "hasta": "2023-09-05",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-09-06",
+          "hasta": "2024-01-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-02-01",
+          "hasta": "2024-04-09",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-04-10",
+          "hasta": "2027-11-12",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        },
+        {
+          "desde": "2027-11-13",
+          "hasta": "2222-02-01",
+          "tipo": "7",
+          "descripcion": "Con Vigencia Diferida por Fecha"
+        },
+        {
+          "desde": "2222-02-02",
+          "hasta": "",
+          "tipo": "8",
+          "descripcion": "Con Vigencia Diferida por Evento"
+        }
+      ],
+      "fecha_version": "1994-03-09",
+      "fecha_actualizacion_texto": "1994-03-09",
+      "eventos_pendientes": [
+        "Las modificaciones introducidas por el artículo único de la ley 21.562 a los artículos 11, 16, 43 y 46 de la presente ley, entrarán en vigor a contar de la publicación de los reglamentos a que se refiere el artículo primero transitorio de la citada ley."
+      ],
+      "diferido": {
+        "presente": true,
+        "alertas": [
+          {
+            "clase": "diferido",
+            "texto": "Tiene texto diferido",
+            "mensaje": "Las modificaciones introducidas por el artículo único de la ley 21.562 a los artículos 11, 16, 43 y 46 de la presente ley, entrarán en vigor a contar de la publicación de los reglamentos a que se refiere el artículo primero transitorio de la citada ley.<br />Con modificaciones que regirán a contar del 13-NOV-2027"
+          }
+        ]
+      },
+      "huella": "f3f8d09eb16f0744408d375f17b5641adba6ce60601ea37f245a02cb32f45192"
+    },
+    "1053563": {
+      "id_norma": "1053563",
+      "marcador": "Decreto Supremo N.º 40, de 2012, del Ministerio del Medio Ambiente, que aprueba Reglamento del Sistema de Evaluación de Impacto Ambiental.",
+      "titulo_bcn": "APRUEBA REGLAMENTO DEL SISTEMA DE EVALUACIÓN DE IMPACTO AMBIENTAL",
+      "vigencia_actual": {
+        "desde": "2026-01-21",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "2013-12-24",
+          "hasta": "2014-03-26",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2014-03-27",
+          "hasta": "2014-10-05",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-10-06",
+          "hasta": "2024-01-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-02-01",
+          "hasta": "2026-01-20",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2026-01-21",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "2013-08-12",
+      "fecha_actualizacion_texto": "2013-08-12",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "afde75d9c7bbbc32a8755a2c028f716d1d1deb9ccfa8c7888e30e16584027d48"
+    },
+    "1216930": {
+      "id_norma": "1216930",
+      "marcador": "Ley N.º 21.770, que establece una Ley Marco de Autorizaciones Sectoriales e introduce modificaciones a los cuerpos legales que indica.",
+      "titulo_bcn": "ESTABLECE UNA LEY MARCO DE AUTORIZACIONES SECTORIALES E INTRODUCE MODIFICACIONES A LOS CUERPOS LEGALES QUE INDICA",
+      "vigencia_actual": {
+        "desde": "2025-09-29",
+        "hasta": "",
+        "tipo": "3",
+        "descripcion": "Única"
+      },
+      "vigencias": [
+        {
+          "desde": "2025-09-29",
+          "hasta": "",
+          "tipo": "3",
+          "descripcion": "Única"
+        }
+      ],
+      "fecha_version": "2025-09-29",
+      "fecha_actualizacion_texto": "",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "04823927b2fabf2a6b997bcfd11c9ed9c8604fe4c943b8d91555d53c952ff579"
+    },
+    "1083574": {
+      "id_norma": "1083574",
+      "marcador": "Decreto Supremo N.º 32, de 2015, del Ministerio del Medio Ambiente, que aprueba Reglamento para la Evaluación Ambiental Estratégica.",
+      "titulo_bcn": "APRUEBA REGLAMENTO PARA LA EVALUACIÓN AMBIENTAL ESTRATÉGICA",
+      "vigencia_actual": {
+        "desde": "2015-11-04",
+        "hasta": "",
+        "tipo": "3",
+        "descripcion": "Única"
+      },
+      "vigencias": [
+        {
+          "desde": "2015-11-04",
+          "hasta": "",
+          "tipo": "3",
+          "descripcion": "Única"
+        }
+      ],
+      "fecha_version": "2015-11-04",
+      "fecha_actualizacion_texto": "2015-11-04",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "94c00a03b450383e270ed34b32acbb0883b331956b646bdd09c9fe07977f31e5"
+    },
+    "1010459": {
+      "id_norma": "1010459",
+      "marcador": "Ley N.º 20.417, que crea el Ministerio, el Servicio de Evaluación Ambiental y la Superintendencia del Medio Ambiente.",
+      "titulo_bcn": "CREA EL MINISTERIO, EL SERVICIO DE EVALUACIÓN AMBIENTAL Y LA SUPERINTENDENCIA DEL MEDIO AMBIENTE",
+      "vigencia_actual": {
+        "desde": "2023-09-06",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "2010-01-26",
+          "hasta": "2012-06-27",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2012-06-28",
+          "hasta": "2021-08-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2021-08-13",
+          "hasta": "2022-06-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-06-13",
+          "hasta": "2023-08-16",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-08-17",
+          "hasta": "2023-09-05",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-09-06",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "2010-01-26",
+      "fecha_actualizacion_texto": "2010-01-26",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "0a454aa4c2b50bd5e98e60aaa73f2770ebeb6167e4cfc2404e8d1d890cbb653a"
+    },
+    "1041361": {
+      "id_norma": "1041361",
+      "marcador": "Ley N.º 20.600, que crea los Tribunales Ambientales.",
+      "titulo_bcn": "CREA LOS TRIBUNALES AMBIENTALES",
+      "vigencia_actual": {
+        "desde": "2022-06-13",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "2012-06-28",
+          "hasta": "2014-05-13",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2014-05-14",
+          "hasta": "2016-01-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-01-05",
+          "hasta": "2018-09-05",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2018-09-06",
+          "hasta": "2022-06-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-06-13",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "2012-06-28",
+      "fecha_actualizacion_texto": "2012-06-28",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "bce8e93374baf71bdf40b89da19370df80448adaeb3e9552d2bb1828caeef343"
+    },
+    "1195666": {
+      "id_norma": "1195666",
+      "marcador": "Ley N.º 21.600, que crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas Protegidas.",
+      "titulo_bcn": "CREA EL SERVICIO DE BIODIVERSIDAD Y ÁREAS PROTEGIDAS Y EL SISTEMA NACIONAL DE ÁREAS PROTEGIDAS",
+      "vigencia_actual": {
+        "desde": "2025-09-29",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "2023-09-06",
+          "hasta": "2023-12-22",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2023-12-23",
+          "hasta": "2025-07-10",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-07-11",
+          "hasta": "2025-09-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-09-29",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "2023-09-06",
+      "fecha_actualizacion_texto": "2023-09-06",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "6363aeb23f0ba124d5000e96dc878165fb009b2eaf1137d8c5c0d600c867a5d3"
+    },
+    "1141461": {
+      "id_norma": "1141461",
+      "marcador": "Ley N.º 21.202, que modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos.",
+      "titulo_bcn": "MODIFICA DIVERSOS CUERPOS LEGALES CON EL OBJETIVO DE PROTEGER LOS HUMEDALES URBANOS",
+      "vigencia_actual": {
+        "desde": "2020-01-23",
+        "hasta": "",
+        "tipo": "3",
+        "descripcion": "Única"
+      },
+      "vigencias": [
+        {
+          "desde": "2020-01-23",
+          "hasta": "",
+          "tipo": "3",
+          "descripcion": "Única"
+        }
+      ],
+      "fecha_version": "2020-01-23",
+      "fecha_actualizacion_texto": "2020-01-23",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "d489d8bc5926b5cd15f71d9c003aadd13b58388c2eaa892b0ac66baa438861cf"
+    },
+    "1152029": {
+      "id_norma": "1152029",
+      "marcador": "Decreto Supremo N.º 15, de 2020, del Ministerio del Medio Ambiente, que establece Reglamento de la Ley N.º 21.202, que modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos.",
+      "titulo_bcn": "ESTABLECE REGLAMENTO DE LA LEY Nº 21.202, QUE MODIFICA DIVERSOS CUERPOS LEGALES CON EL OBJETIVO DE PROTEGER LOS HUMEDALES URBANOS",
+      "vigencia_actual": {
+        "desde": "2020-11-24",
+        "hasta": "",
+        "tipo": "3",
+        "descripcion": "Única"
+      },
+      "vigencias": [
+        {
+          "desde": "2020-11-24",
+          "hasta": "",
+          "tipo": "3",
+          "descripcion": "Única"
+        }
+      ],
+      "fecha_version": "2020-11-24",
+      "fecha_actualizacion_texto": "2020-11-24",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "80c094d8bf2bdec63d566838514b85db9c1660cb895633c5b14ad86706ce8f01"
+    },
+    "1090894": {
+      "id_norma": "1090894",
+      "marcador": "Ley N.º 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje.",
+      "titulo_bcn": "ESTABLECE MARCO PARA LA GESTIÓN DE RESIDUOS, LA RESPONSABILIDAD EXTENDIDA DEL PRODUCTOR Y FOMENTO AL RECICLAJE",
+      "vigencia_actual": {
+        "desde": "2016-06-01",
+        "hasta": "",
+        "tipo": "3",
+        "descripcion": "Única"
+      },
+      "vigencias": [
+        {
+          "desde": "2016-06-01",
+          "hasta": "",
+          "tipo": "3",
+          "descripcion": "Única"
+        }
+      ],
+      "fecha_version": "2016-06-01",
+      "fecha_actualizacion_texto": "2016-06-01",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "81a3105251d686f6a7e1ae1a92c8e9cce1e7f08f56ea2a517df6b66511e23a30"
+    },
+    "1177286": {
+      "id_norma": "1177286",
+      "marcador": "Ley N.º 21.455, Ley Marco de Cambio Climático.",
+      "titulo_bcn": "LEY MARCO DE CAMBIO CLIMÁTICO",
+      "vigencia_actual": {
+        "desde": "2025-07-11",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "2022-06-13",
+          "hasta": "2025-07-10",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2025-07-11",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "2022-06-13",
+      "fecha_actualizacion_texto": "2022-06-13",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "60f091bdd78575289be37043e46db18868da712b6222653364a47205905b542a"
+    }
+  }
+}
