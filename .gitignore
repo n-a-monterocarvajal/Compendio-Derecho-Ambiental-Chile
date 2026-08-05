@@ -2,6 +2,6 @@ trabajo/
 *.pdf
 *.log
 __pycache__/
-*.pyc
+*.py[cod]
 .env
 .venv/
