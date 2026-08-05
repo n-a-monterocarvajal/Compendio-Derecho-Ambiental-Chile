@@ -16,7 +16,7 @@ Este repositorio revisa semanalmente las versiones de sus normas en Ley Chile y 
 10. [Ley N.º 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje.](https://www.bcn.cl/leychile/navegar?idNorma=1090894)
 11. [Ley N.º 21.455, Ley Marco de Cambio Climático.](https://www.bcn.cl/leychile/navegar?idNorma=1177286)
 
-*La selección de las normas está basada en la portada de la publicación [Compendio de Normas Ambientales de Chile](https://editorial.tirant.com/cl/libro/compendio-de-normas-ambientales-de-chile-pavez-torrealba-felipe-ignacio-9791370402808)*
+*La selección de las normas está basada en el índice de la publicación [Compendio de Normas Ambientales de Chile (Tirant lo Blanch)](https://editorial.tirant.com/cl/libro/compendio-de-normas-ambientales-de-chile-pavez-torrealba-felipe-ignacio-9791370402808).*
 
 ## 📄 PDF generado
 
