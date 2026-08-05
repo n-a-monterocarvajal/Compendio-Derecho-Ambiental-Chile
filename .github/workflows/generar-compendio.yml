@@ -46,9 +46,14 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           NOTAS_ACTUALIZACION: ${{ inputs.notas_actualizacion }}
         run: |
-          archivo=$(find . -maxdepth 1 -name 'CompendioNormasAmbientalesChile_*.pdf' -print -quit)
+          archivo=$(find . -maxdepth 1 -name 'CompendioDerechoAmbientalChile_*.pdf' -print -quit)
           test -n "$archivo"
-          fecha=$(date -u +%Y%m%d_%H%M%S_UTC)
+          nombre_archivo=$(basename "$archivo" .pdf)
+          fecha=${nombre_archivo#CompendioDerechoAmbientalChile_}
+          if [[ "$fecha" == "$nombre_archivo" || ! "$fecha" =~ ^[0-9]{8}_[0-9]{4}_UTC$ ]]; then
+            echo "Nombre de PDF inesperado: $nombre_archivo" >&2
+            exit 1
+          fi
           {
             echo "Compendio generado automáticamente desde las fuentes oficiales de Ley Chile."
             echo
@@ -70,8 +75,8 @@ jobs:
         if: success()
         uses: actions/upload-artifact@v7
         with:
-          name: CompendioNormasAmbientalesChile
-          path: CompendioNormasAmbientalesChile_*.pdf
+          name: CompendioDerechoAmbientalChile
+          path: CompendioDerechoAmbientalChile_*.pdf
           retention-days: 30
           if-no-files-found: error
 
