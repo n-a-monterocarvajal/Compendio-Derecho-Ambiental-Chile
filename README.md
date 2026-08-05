@@ -5,7 +5,9 @@
 [![Generación](https://github.com/n-a-monterocarvajal/Compendio-Derecho-Ambiental-Chile/actions/workflows/generar-compendio.yml/badge.svg?branch=main)](https://github.com/n-a-monterocarvajal/Compendio-Derecho-Ambiental-Chile/actions/workflows/generar-compendio.yml)
 [![Licencia: MIT](https://img.shields.io/github/license/n-a-monterocarvajal/Compendio-Derecho-Ambiental-Chile?label=licencia)](https://github.com/n-a-monterocarvajal/Compendio-Derecho-Ambiental-Chile/blob/main/LICENSE)
 
-Este repositorio revisa semanalmente las versiones de sus normas en Ley Chile y genera un nuevo compendio PDF solo cuando detecta una actualización.
+Genera y actualiza automáticamente un compendio en PDF de normas ambientales chilenas obtenidas desde el servicio Ley Chile, de la Biblioteca del Congreso Nacional de Chile.
+
+Este repositorio revisa semanalmente las versiones de sus normas y genera un nuevo compendio PDF solo cuando detecta una actualización.
 
 ## 📚 Normas incluidas
 
