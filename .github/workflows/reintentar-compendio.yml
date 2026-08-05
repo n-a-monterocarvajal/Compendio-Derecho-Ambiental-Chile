@@ -8,20 +8,20 @@ on:
       - completed
 
 permissions:
-  contents: write
-  actions: read
+  contents: read
+  actions: write
 
 jobs:
   reintento:
-    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+    if: ${{ github.event.workflow_run.conclusion == 'failure' && github.event.workflow_run.run_attempt == 1 }}
     runs-on: ubuntu-latest
 
     steps:
-      - name: Esperar una hora antes del reintento
+      - name: Esperar una hora antes del segundo intento
         run: sleep 3600
 
-      - name: Ejecutar nuevo intento
+      - name: Reintentar los jobs fallidos
         env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          gh workflow run generar-compendio.yml --repo ${{ github.repository }}
+          RUN_ID: ${{ github.event.workflow_run.id }}
+        run: gh run rerun "$RUN_ID" --failed --repo "$GITHUB_REPOSITORY"
