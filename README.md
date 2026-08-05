@@ -25,7 +25,7 @@ Este repositorio revisa semanalmente las versiones de sus normas en Ley Chile y 
 El *workflow* produce un archivo PDF con nombre versionado por fecha y hora UTC:
 
 ```text
-CompendioNormasAmbientalesChile_YYYYMMDD_HHMM_UTC.pdf
+CompendioDerechoAmbientalChile_YYYYMMDD_HHMM_UTC.pdf
 ```
 
 ## 📥 Descarga del compendio
