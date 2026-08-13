@@ -11,7 +11,7 @@ Este repositorio revisa diariamente las versiones de sus normas y genera un nuev
 
 ## 📚 Normas incluidas
 
-1. [Ley N.º 19.300, que aprueba Ley sobre Bases Generales del Medio Ambiente.](https://www.bcn.cl/leychile/navegar?idNorma=30667)
+1. [Ley N.º 19.300, que aprueba **Ley sobre Bases Generales del Medio Ambiente**.](https://www.bcn.cl/leychile/navegar?idNorma=30667)
 2. [Decreto Supremo N.º 40, de 2012, del Ministerio del Medio Ambiente, que aprueba Reglamento del Sistema de Evaluación de Impacto Ambiental.](https://www.bcn.cl/leychile/navegar?idNorma=1053563)
 3. [Ley N.º 21.770, que establece una Ley Marco de Autorizaciones Sectoriales e introduce modificaciones a los cuerpos legales que indica.](https://www.bcn.cl/leychile/navegar?idNorma=1216930)
 4. [Decreto Supremo N.º 32, de 2015, del Ministerio del Medio Ambiente, que aprueba Reglamento para la Evaluación Ambiental Estratégica.](https://www.bcn.cl/leychile/navegar?idNorma=1083574)
