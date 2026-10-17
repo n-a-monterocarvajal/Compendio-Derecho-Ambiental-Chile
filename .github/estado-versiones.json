@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "actualizado_utc": "2026-08-05T01:41:31+00:00",
+  "actualizado_utc": "2026-10-17T14:24:15+00:00",
   "fuentes": {
     "30667": {
       "id_norma": "30667",
@@ -149,7 +149,13 @@
           }
         ]
       },
-      "huella": "f3f8d09eb16f0744408d375f17b5641adba6ce60601ea37f245a02cb32f45192"
+      "huella": "f3f8d09eb16f0744408d375f17b5641adba6ce60601ea37f245a02cb32f45192",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
     },
     "1053563": {
       "id_norma": "1053563",
@@ -200,7 +206,13 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "afde75d9c7bbbc32a8755a2c028f716d1d1deb9ccfa8c7888e30e16584027d48"
+      "huella": "afde75d9c7bbbc32a8755a2c028f716d1d1deb9ccfa8c7888e30e16584027d48",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
     },
     "1216930": {
       "id_norma": "1216930",
@@ -227,7 +239,13 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "04823927b2fabf2a6b997bcfd11c9ed9c8604fe4c943b8d91555d53c952ff579"
+      "huella": "04823927b2fabf2a6b997bcfd11c9ed9c8604fe4c943b8d91555d53c952ff579",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
     },
     "1083574": {
       "id_norma": "1083574",
@@ -254,7 +272,13 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "94c00a03b450383e270ed34b32acbb0883b331956b646bdd09c9fe07977f31e5"
+      "huella": "94c00a03b450383e270ed34b32acbb0883b331956b646bdd09c9fe07977f31e5",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
     },
     "1010459": {
       "id_norma": "1010459",
@@ -311,7 +335,13 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "0a454aa4c2b50bd5e98e60aaa73f2770ebeb6167e4cfc2404e8d1d890cbb653a"
+      "huella": "0a454aa4c2b50bd5e98e60aaa73f2770ebeb6167e4cfc2404e8d1d890cbb653a",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
     },
     "1041361": {
       "id_norma": "1041361",
@@ -362,7 +392,13 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "bce8e93374baf71bdf40b89da19370df80448adaeb3e9552d2bb1828caeef343"
+      "huella": "bce8e93374baf71bdf40b89da19370df80448adaeb3e9552d2bb1828caeef343",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
     },
     "1195666": {
       "id_norma": "1195666",
@@ -407,7 +443,13 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "6363aeb23f0ba124d5000e96dc878165fb009b2eaf1137d8c5c0d600c867a5d3"
+      "huella": "6363aeb23f0ba124d5000e96dc878165fb009b2eaf1137d8c5c0d600c867a5d3",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
     },
     "1141461": {
       "id_norma": "1141461",
@@ -434,7 +476,13 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "d489d8bc5926b5cd15f71d9c003aadd13b58388c2eaa892b0ac66baa438861cf"
+      "huella": "d489d8bc5926b5cd15f71d9c003aadd13b58388c2eaa892b0ac66baa438861cf",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
     },
     "1152029": {
       "id_norma": "1152029",
@@ -461,7 +509,13 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "80c094d8bf2bdec63d566838514b85db9c1660cb895633c5b14ad86706ce8f01"
+      "huella": "80c094d8bf2bdec63d566838514b85db9c1660cb895633c5b14ad86706ce8f01",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
     },
     "1090894": {
       "id_norma": "1090894",
@@ -488,7 +542,13 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "81a3105251d686f6a7e1ae1a92c8e9cce1e7f08f56ea2a517df6b66511e23a30"
+      "huella": "81a3105251d686f6a7e1ae1a92c8e9cce1e7f08f56ea2a517df6b66511e23a30",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
     },
     "1177286": {
       "id_norma": "1177286",
@@ -521,7 +581,13 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "60f091bdd78575289be37043e46db18868da712b6222653364a47205905b542a"
+      "huella": "60f091bdd78575289be37043e46db18868da712b6222653364a47205905b542a",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
     }
   }
 }
