@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "actualizado_utc": "2026-10-21T16:05:16+00:00",
+  "actualizado_utc": "2026-11-01T17:15:08+00:00",
   "fuentes": {
     "30667": {
       "id_norma": "30667",
       "marcador": "Ley N.º 19.300, que aprueba Ley sobre Bases Generales del Medio Ambiente.",
       "titulo_bcn": "APRUEBA LEY SOBRE BASES GENERALES DEL MEDIO AMBIENTE",
       "vigencia_actual": {
-        "desde": "2024-04-10",
-        "hasta": "2026-10-31",
+        "desde": "2026-11-01",
+        "hasta": "2027-11-12",
         "tipo": "2",
         "descripcion": "Última Versión"
       },
@@ -118,14 +118,14 @@
         {
           "desde": "2024-04-10",
           "hasta": "2026-10-31",
-          "tipo": "2",
-          "descripcion": "Última Versión"
+          "tipo": "1",
+          "descripcion": "Intermedio"
         },
         {
           "desde": "2026-11-01",
           "hasta": "2027-11-12",
-          "tipo": "7",
-          "descripcion": "Con Vigencia Diferida por Fecha"
+          "tipo": "2",
+          "descripcion": "Última Versión"
         },
         {
           "desde": "2027-11-13",
@@ -151,11 +151,11 @@
           {
             "clase": "diferido",
             "texto": "Tiene texto diferido",
-            "mensaje": "Las modificaciones introducidas por el artículo único de la ley 21.562 a los artículos 11, 16, 43 y 46 de la presente ley, entrarán en vigor a contar de la publicación de los reglamentos a que se refiere el artículo primero transitorio de la citada ley.<br />Con modificaciones que regirán a contar del 13-NOV-2027<br />Con modificaciones que regirán a contar del 01-NOV-2026"
+            "mensaje": "Las modificaciones introducidas por el artículo único de la ley 21.562 a los artículos 11, 16, 43 y 46 de la presente ley, entrarán en vigor a contar de la publicación de los reglamentos a que se refiere el artículo primero transitorio de la citada ley.<br />Con modificaciones que regirán a contar del 13-NOV-2027"
           }
         ]
       },
-      "huella": "9c8f9d30057f8913b4c169ee153bee74719302e54d987263593450d71ba9d906",
+      "huella": "23294962c96db9daa95ea1c346dcb38f3ef064944d6abf1673fb445e3584d20d",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
@@ -354,8 +354,8 @@
       "marcador": "Ley N.º 20.600, que crea los Tribunales Ambientales.",
       "titulo_bcn": "CREA LOS TRIBUNALES AMBIENTALES",
       "vigencia_actual": {
-        "desde": "2022-06-13",
-        "hasta": "2026-10-31",
+        "desde": "2026-11-01",
+        "hasta": "",
         "tipo": "2",
         "descripcion": "Última Versión"
       },
@@ -387,30 +387,24 @@
         {
           "desde": "2022-06-13",
           "hasta": "2026-10-31",
-          "tipo": "2",
-          "descripcion": "Última Versión"
+          "tipo": "1",
+          "descripcion": "Intermedio"
         },
         {
           "desde": "2026-11-01",
           "hasta": "",
-          "tipo": "7",
-          "descripcion": "Con Vigencia Diferida por Fecha"
+          "tipo": "2",
+          "descripcion": "Última Versión"
         }
       ],
       "fecha_version": "2012-06-28",
       "fecha_actualizacion_texto": "2012-06-28",
       "eventos_pendientes": [],
       "diferido": {
-        "presente": true,
-        "alertas": [
-          {
-            "clase": "diferido",
-            "texto": "Tiene texto diferido",
-            "mensaje": "Con modificaciones que regirán a contar del 01-NOV-2026"
-          }
-        ]
+        "presente": false,
+        "alertas": []
       },
-      "huella": "2a5339dcdf005ba5f63f92a8bc140b25283f3746a08e714336ad6816dc2b5987",
+      "huella": "174901a14a72756145a5dedfa41b541c73cf2427eb5dba93fcc634bad4befcab",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
@@ -423,8 +417,8 @@
       "marcador": "Ley N.º 21.600, que crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas Protegidas.",
       "titulo_bcn": "CREA EL SERVICIO DE BIODIVERSIDAD Y ÁREAS PROTEGIDAS Y EL SISTEMA NACIONAL DE ÁREAS PROTEGIDAS",
       "vigencia_actual": {
-        "desde": "2025-09-29",
-        "hasta": "2026-10-31",
+        "desde": "2026-11-01",
+        "hasta": "",
         "tipo": "2",
         "descripcion": "Última Versión"
       },
@@ -450,30 +444,24 @@
         {
           "desde": "2025-09-29",
           "hasta": "2026-10-31",
-          "tipo": "2",
-          "descripcion": "Última Versión"
+          "tipo": "1",
+          "descripcion": "Intermedio"
         },
         {
           "desde": "2026-11-01",
           "hasta": "",
-          "tipo": "7",
-          "descripcion": "Con Vigencia Diferida por Fecha"
+          "tipo": "2",
+          "descripcion": "Última Versión"
         }
       ],
       "fecha_version": "2023-09-06",
       "fecha_actualizacion_texto": "2023-09-06",
       "eventos_pendientes": [],
       "diferido": {
-        "presente": true,
-        "alertas": [
-          {
-            "clase": "diferido",
-            "texto": "Tiene texto diferido",
-            "mensaje": "Con modificaciones que regirán a contar del 01-NOV-2026"
-          }
-        ]
+        "presente": false,
+        "alertas": []
       },
-      "huella": "4cd62bf0907bdd43d1c58f9c40d82d0bb17b6359a0b83888384662633ab51643",
+      "huella": "7976d2816ca27f079fa76f48ea05bdf2712a81adb4bd681f56f796149e982cb6",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
