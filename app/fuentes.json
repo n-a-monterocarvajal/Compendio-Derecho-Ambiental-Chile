@@ -19,9 +19,20 @@
     },
     {
       "tipo": "bcn",
-      "marcador": "Ley N.º 21.770, que establece una Ley Marco de Autorizaciones Sectoriales e introduce modificaciones a los cuerpos legales que indica.",
-      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1216930",
+      "marcador": "Ley N.º 21.770, que establece una Ley Marco de Autorizaciones Sectoriales e introduce modificaciones a los cuerpos legales que indica. Selección: títulos I a VIII y disposiciones transitorias.",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1216930&idParte=10563161",
       "id_norma": 1216930,
+      "id_parte": [
+        10563161,
+        10563168,
+        10563177,
+        10563196,
+        10563210,
+        10563227,
+        10563235,
+        10563256,
+        10563310
+      ],
       "archivo": "03_ley_21770_autorizaciones_sectoriales"
     },
     {
@@ -33,9 +44,13 @@
     },
     {
       "tipo": "bcn",
-      "marcador": "Ley N.º 20.417, que crea el Ministerio, el Servicio de Evaluación Ambiental y la Superintendencia del Medio Ambiente.",
-      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1010459",
+      "marcador": "Ley N.º 20.417, que crea el Ministerio, el Servicio de Evaluación Ambiental y la Superintendencia del Medio Ambiente. Selección: artículo segundo, que fija la Ley Orgánica de la Superintendencia del Medio Ambiente, y artículos transitorios.",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1010459&idParte=8848126",
       "id_norma": 1010459,
+      "id_parte": [
+        8848126,
+        8848212
+      ],
       "archivo": "05_ley_20417_institucionalidad_ambiental"
     },
     {
