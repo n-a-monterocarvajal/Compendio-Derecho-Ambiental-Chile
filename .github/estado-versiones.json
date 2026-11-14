@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "actualizado_utc": "2026-11-01T17:15:08+00:00",
+  "actualizado_utc": "2026-11-14T17:18:03+00:00",
   "fuentes": {
     "30667": {
       "id_norma": "30667",
@@ -222,7 +222,7 @@
     },
     "1216930": {
       "id_norma": "1216930",
-      "marcador": "Ley N.º 21.770, que establece una Ley Marco de Autorizaciones Sectoriales e introduce modificaciones a los cuerpos legales que indica.",
+      "marcador": "Ley N.º 21.770, que establece una Ley Marco de Autorizaciones Sectoriales e introduce modificaciones a los cuerpos legales que indica. Selección: títulos I a VIII y disposiciones transitorias.",
       "titulo_bcn": "ESTABLECE UNA LEY MARCO DE AUTORIZACIONES SECTORIALES E INTRODUCE MODIFICACIONES A LOS CUERPOS LEGALES QUE INDICA",
       "vigencia_actual": {
         "desde": "2025-09-29",
@@ -245,13 +245,14 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "04823927b2fabf2a6b997bcfd11c9ed9c8604fe4c943b8d91555d53c952ff579",
+      "huella": "76846d4efa1d568b6e5e676a8109f8e9807aeb0cf3ebb269ce6d690934e80ed5",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
         "alertas": []
       },
-      "version_vigente_indicada": ""
+      "version_vigente_indicada": "",
+      "id_parte": "10563161,10563168,10563177,10563196,10563210,10563227,10563235,10563256,10563310"
     },
     "1083574": {
       "id_norma": "1083574",
@@ -288,7 +289,7 @@
     },
     "1010459": {
       "id_norma": "1010459",
-      "marcador": "Ley N.º 20.417, que crea el Ministerio, el Servicio de Evaluación Ambiental y la Superintendencia del Medio Ambiente.",
+      "marcador": "Ley N.º 20.417, que crea el Ministerio, el Servicio de Evaluación Ambiental y la Superintendencia del Medio Ambiente. Selección: artículo segundo, que fija la Ley Orgánica de la Superintendencia del Medio Ambiente, y artículos transitorios.",
       "titulo_bcn": "CREA EL MINISTERIO, EL SERVICIO DE EVALUACIÓN AMBIENTAL Y LA SUPERINTENDENCIA DEL MEDIO AMBIENTE",
       "vigencia_actual": {
         "desde": "2023-09-06",
@@ -304,10 +305,16 @@
           "descripcion": "Texto Original"
         },
         {
-          "desde": "2012-06-28",
+          "desde": "2010-01-26",
           "hasta": "2021-08-12",
-          "tipo": "1",
-          "descripcion": "Intermedio"
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2012-06-28",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
         },
         {
           "desde": "2021-08-13",
@@ -341,13 +348,14 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "0a454aa4c2b50bd5e98e60aaa73f2770ebeb6167e4cfc2404e8d1d890cbb653a",
+      "huella": "394d57010c61d6cc5e3e0e5caad9f15fea7948c35bc6235128d752b27623d964",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
         "alertas": []
       },
-      "version_vigente_indicada": ""
+      "version_vigente_indicada": "",
+      "id_parte": "8848126,8848212"
     },
     "1041361": {
       "id_norma": "1041361",
